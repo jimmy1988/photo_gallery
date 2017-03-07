@@ -1,0 +1,4 @@
+2016-11-20 22:30:01 | Logs Cleared: by User ID 1
+2016-11-26 19:31:37 | Login: jmchugh logged in.
+2016-11-26 20:51:13 | Login: jmchugh logged in.
+2016-11-26 20:52:50 | Login: jmchugh logged in.
